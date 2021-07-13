@@ -1,0 +1,2 @@
+rootProject.name = "Vong_Lap_While"
+include ':app'

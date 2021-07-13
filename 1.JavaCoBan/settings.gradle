@@ -1,0 +1,2 @@
+rootProject.name = "Java co ban"
+include ':app'
